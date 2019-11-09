@@ -1,14 +1,14 @@
-## JADE BERESFORD
+# Jade Beresford
 
 ---
 
-[SKILLS](#skills) | [PROJECTS](#projects) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
 ---
 
-## SKILLS
+## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
@@ -35,7 +35,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ---
 
-## PROJECTS
+## Projects
 
 | Project | Description | Technologies Used | Testing Technologies |
 | :---: | :---: | :---: | :---: |
@@ -46,7 +46,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ---
 
-## EDUCATION
+## Education
 
 #### Makers Academy (November 2019 - Present)  
 
@@ -70,7 +70,7 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ---
 
-## EXPERIENCE
+## Experience
 
 **St Paul's Girls' School** (October 2017 - September 2019)  
 *Administrator to the Deputy Head, Director of Pastoral Care*  
@@ -94,7 +94,7 @@ Note: American Medical Systems UK Ltd became a subsidiary of Boston Scientific i
 
 ---
 
-## INTERESTS
+## Interests
 
 - **Volunteering**: I was a volunteer youth mentor for a decade (August 2007 - December 2016), with a passion for the care, safeguarding and creation of increased opportunities for young people.
 - **Reading**: mostly classical fiction, philosophy and theology
