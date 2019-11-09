@@ -40,7 +40,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (November 2019 - Present)  
 
-A 16-week intensive software development bootcamp, focusing on:  
+A 12-week intensive software development bootcamp, focusing on:  
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
@@ -80,9 +80,8 @@ Note: American Medical Systems UK Ltd became a subsidiary of Boston Scientific i
 **NHS Islington** (July 2009 - August 2010)  
 *Data Administrator*  
 
-**Volunteer Youth Mentor** (August 2007 - December 2016)  
+## Interests
 
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+- **Volunteering**: I was a volunteer youth mentor for a decade (August 2007 - December 2016), with a passion for the care, safeguarding and creation of increased opportunities for young people.
+- **Reading**: mostly classical fiction, philosophy and theology
+- **Long walks**: exploring London and beyond
