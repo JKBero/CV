@@ -17,26 +17,30 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-#### This Skill
+#### Fast learner
+#### Project management  
+#### Managing relationships with various stakeholders  
+#### Logical approach & organised  
+#### Calm under pressure and working to deadlines  
+#### Analytical  
+#### Volunteer management  
+#### Excellent team player / flexible / colloborative / strong communication skills  
+#### Prioritisation skills and able to work individually  
 
+## Projects
 
-
-#### Another Skill
-
-Fast learner  
-Project management  
-Managing relationships with various stakeholders  
-Logical approach & organised  
-Calm under pressure and working to deadlines  
-Analytical  
-Volunteer management  
-Excellent team player / flexible / colloborative / strong communication skills  
-Prioritisation skills and able to work individually  
+| Project | Description | Technologies Used | Testing Technologies |
+| :---: | :---: | :---: | :---: |
+| name & link | text | text | text |
+| name & link | text | text | text |
+| name & link | text | text | text |
+| name & link | text | text | text |
 
 ## Education
 
 #### Makers Academy (November 2019 - Present)  
 
+A 16-week intensive software development bootcamp, focusing on:  
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
@@ -56,10 +60,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Company Name** (start_date to end_date)  
-*Your job title*  
-- Any experience relevent to software development  
-
 **St Paul's Girls' School** (October 2017 - September 2019)  
 *Administrator to the Deputy Head, Director of Pastoral Care*  
 
@@ -70,7 +70,7 @@ That in some arguable way make you a better software developer or well-rounded p
 *Office Manager (June 2015 - June 2016)*  
 *Business Support Officer (August 2014 - June 2015)*  
 
-Note: American Medical Systems UK Ltd became a subsidiary of Boston Scientific in July 2015. In addition to all responsibilities as Office Manager, I still undertook all Business Support Officer tasks after promotion in June 2015.
+Note: American Medical Systems UK Ltd became a subsidiary of Boston Scientific in July 2015. In addition to all responsibilities as Office Manager, I still undertook all Business Support Officer tasks after promotion in June 2015.  
 
 - Responsible for the complete shutting down of an office during company merger – liaising with all suppliers, transitioning all the functions to the new parent company’s office to strict deadlines, and inducting staff from new company on systems, troubleshooting issues as they arose and liaising with senior staff on potential business continuity issues as they arose or could be identified.
 
