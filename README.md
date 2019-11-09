@@ -1,8 +1,12 @@
 ## JADE BERESFORD
 
+---
+
 [SKILLS](#skills) | [PROJECTS](#projects) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+
+---
 
 ## SKILLS
 
@@ -29,6 +33,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Excellent team player / flexible / colloborative / strong communication skills  
 #### Prioritisation skills and able to work individually  
 
+---
+
 ## PROJECTS
 
 | Project | Description | Technologies Used | Testing Technologies |
@@ -37,6 +43,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 | name & link | text | text | text |
 | name & link | text | text | text |
 | name & link | text | text | text |
+
+---
 
 ## EDUCATION
 
@@ -60,6 +68,8 @@ European Baccalaureate – Majors: A, A, A, B (Mathematics, English, History and
 
 That in some arguable way make you a better software developer or well-rounded person  
 
+---
+
 ## EXPERIENCE
 
 **St Paul's Girls' School** (October 2017 - September 2019)  
@@ -81,6 +91,8 @@ Note: American Medical Systems UK Ltd became a subsidiary of Boston Scientific i
 
 **NHS Islington** (July 2009 - August 2010)  
 *Data Administrator*  
+
+---
 
 ## INTERESTS
 
