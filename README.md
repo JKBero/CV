@@ -44,6 +44,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 | name & link | text | text | text |
 | name & link | text | text | text |
 
+**_To see my goal setting process, reflections and progress visit my [Makers' Notes](https://github.com/JKBero/Makers-Notes)_**
+
 ---
 
 ## Education
