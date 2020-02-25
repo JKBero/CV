@@ -4,7 +4,11 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I am a self-motivated and curious Full Stack Junior Developer, looking for a role which will expand my knowledge in full stack development and provide a supportive environment which values engineering best practices.
+
+Before falling in love with coding and completing Makers Academy, I worked as a personal assistant and office manager for 6 years in various industries, including the health, education and charity sectors, supporting CEOs and directors achieve their goals. Highly motivated by cause, I also volunteered as a youth mentor and team leader for 9 years, balancing a full-time career with a passion to see increased opportunities for young people across London.
+
+As a highly analytical and logical person, retraining as a developer was an opportunity I could not pass up. I have loved every second of the journey and look forward to digging my teeth into new problem solving challenges and project builds.
 
 ---
 
