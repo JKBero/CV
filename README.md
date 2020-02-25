@@ -16,10 +16,9 @@ As a highly analytical and logical person, retraining as a developer was an oppo
 
 | Project | Description | Technologies Used | Testing Technologies |
 | :---: | :---: | :---: | :---: |
-| name & link | text | text | text |
-| name & link | text | text | text |
-| name & link | text | text | text |
-| name & link | text | text | text |
+| [Recispeak](https://github.com/dbacall/Recispeak) | Voice recognition app for Android that allows you to list the food in your kitchen and generates recipes based on those ingredients | Javascript, React Native, React Native Voice, Circle CI, Spoonacular APIs, CSS, Supernova Studio, ESLint, Code Climate | Jest, Enzyme |
+| [The 411](https://github.com/JKBero/chitter-challenge/blob/master/README-2.md) | This is a small Twitter clone with an 80s twist, that allows users to post messages to a public stream | Ruby, Sinatra, PostgreSQL, HTML, CSS | Rspec, Capybara |
+| [Spacebook](https://github.com/ajbacon/acebook-true-GrIT) | A clone of Facebook for space lovers and all things cosmic, in Ruby on Rails. [View our blog.](https://medium.com/true-grit) | Ruby on Rails, Devise, OAuth, Travis CI, Heroku, FactoryBot, ActiveRecord, PostgreSQL, HTML, CSS, Rubocop, SimpleCov | Rspec, Capybara |
 
 **_To see my goal setting process, reflections and progress visit my [Makers' Notes](https://github.com/JKBero/Makers-Notes)_**
 
