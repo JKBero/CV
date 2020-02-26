@@ -16,9 +16,9 @@ As a highly analytical and logical person, training as a developer at Makers Aca
 
 | Project | Description | Technologies Used | Testing Technologies |
 | :---: | :---: | :---: | :---: |
-| [Recispeak](https://github.com/dbacall/Recispeak) | Voice recognition app for Android that allows you to list the food in your kitchen and generates recipes based on those ingredients | Javascript, React Native, React Native Voice, Circle CI, Spoonacular APIs, CSS, Supernova Studio, ESLint, Code Climate | Jest, Enzyme |
-| [The 411](https://github.com/JKBero/chitter-challenge/blob/master/README-2.md) | This is a small Twitter clone with an 80s twist, that allows users to post messages to a public stream | Ruby, Sinatra, PostgreSQL, HTML, CSS | RSpec, Capybara |
-| [Spacebook](https://github.com/ajbacon/acebook-true-GrIT) | A clone of Facebook for space lovers and all things cosmic, in Ruby on Rails. [View our blog.](https://medium.com/true-grit) | Ruby on Rails, Devise, OAuth, Travis CI, Heroku, ActiveRecord, PostgreSQL, HTML, CSS, Rubocop, SimpleCov | RSpec, Capybara, FactoryBot |
+| [Recispeak](https://github.com/dbacall/Recispeak) | Voice recognition app for Android that allows you to list the food in your kitchen and generates recipes based on those ingredients. | Javascript, React Native, React Native Voice, Circle CI, Spoonacular APIs, CSS, Supernova Studio, ESLint, Code Climate | Jest, Enzyme |
+| [The 411](https://github.com/JKBero/chitter-challenge/blob/master/README-2.md) | A small Twitter clone with an 80s twist, that allows users to post messages to a public stream. | Ruby, Sinatra, PostgreSQL, HTML, CSS | RSpec, Capybara |
+| [Spacebook](https://github.com/ajbacon/acebook-true-GrIT) | A Facebook clone for space lovers and all things cosmic, in Ruby on Rails. [View our blog.](https://medium.com/true-grit) | Ruby on Rails, Devise, OAuth, Travis CI, Heroku, ActiveRecord, PostgreSQL, HTML, CSS, Rubocop, SimpleCov | RSpec, Capybara, FactoryBot |
 
 **_To see my goal setting process and reflections explore my [Makers' Notes](https://github.com/JKBero/Makers-Notes)_**
 
@@ -54,7 +54,7 @@ I'm often trusted to juggle the demands of senior management alongside the needs
 
 A 12-week intensive software development bootcamp, focusing on:  
 - OOP, TDD, MVC
-- Agile/XP
+- Agile/XP, pair programming
 - Ruby, Rails, JavaScript, React
 - RSpec, Jasmine, Jest
 
@@ -92,5 +92,6 @@ Note: American Medical Systems UK Ltd became a subsidiary of Boston Scientific i
 
 ## Interests
 
-- **Reading**: mostly classical fiction, philosophy and theology
-- **Long walks**: exploring London and beyond
+- **Volunteering**: I was a volunteer youth mentor and led volunteer teams between 2007 and 2016, and learnt so much about pastoral care, safeguarding and leadership. It was an amazing experience and I made life-long friends. I'm eager to jump back in and am currently looking for a new code-related volunteer role.
+- **Reading**: I adore a good read, mostly classical fiction, philosophy and theology.
+- **Long walks**: Exploring London and beyond, wandering down side-streets and finding new favourite hangouts.
