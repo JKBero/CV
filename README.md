@@ -48,7 +48,7 @@ I'm often trusted to juggle the demands of senior management alongside the needs
 
 ## Education
 
-#### Makers Academy (November 2019 - Present)  
+#### Makers Academy (November 2019 - February 2020)  
 
 A 12-week intensive software development bootcamp, focusing on:  
 - OOP, TDD, MVC, DDD
