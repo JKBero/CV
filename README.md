@@ -14,11 +14,11 @@ As a highly analytical and logical person, training as a developer at Makers Aca
 
 ## Projects
 
-| Project | Description | Technologies Used | Testing Technologies |
-| :---: | :---: | :---: | :---: |
-| [Recispeak](https://github.com/dbacall/Recispeak) | Voice recognition app for Android that allows you to list the food in your kitchen and generates recipes based on those ingredients. | Javascript, React Native, React Native Voice, Circle CI, Spoonacular APIs, CSS, Supernova Studio, ESLint, Code Climate | Jest, Enzyme |
-| [The 411](https://github.com/JKBero/chitter-challenge/blob/master/README-2.md) | A small Twitter clone with an 80s twist, that allows users to post messages to a public stream. | Ruby, Sinatra, PostgreSQL, HTML, CSS | RSpec, Capybara |
-| [Spacebook](https://github.com/ajbacon/acebook-true-GrIT) | A Facebook clone for space lovers and all things cosmic, in Ruby on Rails. [View our blog.](https://medium.com/true-grit) | Ruby on Rails, Devise, OAuth, Travis CI, Heroku, ActiveRecord, PostgreSQL, HTML, CSS, Rubocop, SimpleCov | RSpec, Capybara, FactoryBot |
+| Project | Description | Demo | Technologies Used | Testing Technologies |
+| :---: | :---: | :---: | :---: | :---: |
+| [Recispeak](https://github.com/dbacall/Recispeak) | Voice recognition app for Android that allows you to list the food in your kitchen and generates recipes based on those ingredients. | ![Recispeak Demo Gif](https://media.giphy.com/media/UqwnCxy5mrlxqemZ6R/giphy.gif) | Javascript, React Native, React Native Voice, Circle CI, Spoonacular APIs, CSS, Supernova Studio, ESLint, Code Climate | Jest, Enzyme |
+| [The 411](https://github.com/JKBero/chitter-challenge/blob/master/README-2.md) | A small Twitter clone with an 80s twist, that allows users to post messages to a public stream. | | Ruby, Sinatra, PostgreSQL, HTML, CSS | RSpec, Capybara |
+| [Spacebook](https://github.com/ajbacon/acebook-true-GrIT) | A Facebook clone for space lovers and all things cosmic, in Ruby on Rails. [View our blog.](https://medium.com/true-grit) | | Ruby on Rails, Devise, OAuth, Travis CI, Heroku, ActiveRecord, PostgreSQL, HTML, CSS, Rubocop, SimpleCov | RSpec, Capybara, FactoryBot |
 
 **_To see my goal setting process and reflections explore my [Makers' Notes](https://github.com/JKBero/Makers-Notes)_**
 
