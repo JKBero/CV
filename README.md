@@ -28,23 +28,23 @@ As a highly analytical and logical person, training as a developer at Makers Aca
 
 #### Quick Study
 
-Having managed various offices and the professional lives of leaders, learning new databases, systems and best practices at speed has been a necessity. Most recently, in my role at St Paul's Girls' School, I helped manage a school-wide migration to CPOMS (secure online monitoring software) for tracking all pastoral needs/incidents and oversaw the daily registration of 550+ pupils on iSAMS (school management information system).   
+Having managed various offices and the professional lives of leaders, **learning new databases, systems and best practices at speed has been a necessity**. Most recently, in my role at St Paul's Girls' School, I helped manage a school-wide migration to CPOMS (secure online monitoring software) for tracking all pastoral needs/incidents and oversaw the daily registration of 550+ pupils on iSAMS (school management information system).   
 
 During our final project at Makers, we were able, as a team, to teach ourselves React Native within a week to deliver the functionality of our food app. I was also able to deliver the app's styling in less than two days, by learning and utilising Supernova Studio software.
 
 #### Project Management & Creative Problem Solving
 
-In my role at American Medical Systems, I was responsible for the complete shutting down of an office as the company underwent a merger with Boston Scientific. This involved a year long project management strategy: coordinating with all suppliers, transitioning and adapting all processes to the new parent company to strict deadlines, inducting staff on our systems, and liaising with senior staff on potential business continuity issues. Due to it being a medical company it was imperative no balls were dropped, to ensure patients and hospitals were not negatively impacted and surgeries were not cancelled.  
+In my role at American Medical Systems, I was responsible for the complete shutting down of an office as the company underwent a merger with Boston Scientific. This involved a year long **project management strategy**: coordinating with all suppliers, transitioning and adapting all processes to the new parent company to strict deadlines, inducting staff on our systems, and liaising with senior staff on potential business continuity issues. Due to it being a medical company it was imperative no balls were dropped, to ensure patients and hospitals were not negatively impacted and surgeries were not cancelled.  
 
-These organisational skills have helped me solidify my developer processes, ensuring I keep my code well planned, tested and readable. In addition, my creative problem solving skills have helped me to look at coding problems from many different angles and concoct varied solutions.
+These **organisational skills** have helped me solidify my developer processes, ensuring I keep my code **well planned**, **tested** and **maintanable**. In addition, my **creative problem solving skills** have helped me to look at coding problems from many different angles and concoct varied solutions.
 
 #### Communicator & Team Player
 
-I have practised strong communication skills across my previous career, from facilitating and supporting the Board of Trustees at Y Care International, to writing and issuing departmental memos to 2000+ parents at St Paul's Girls' School. I've become adept at communicating effectively and professionally with various stakeholders across the board, including customers, senior leadership, suppliers and peers. This has heavily informed my work at Makers to ensure smooth, empathetic and collaborative communication when pair programming or working in teams, as well as ensuring that all documentation is kept up-to-date and relevant.
+I have practised **strong communication** skills across my previous career, from facilitating and supporting the Board of Trustees at Y Care International, to writing and issuing departmental memos to 2000+ parents at St Paul's Girls' School. I've become adept at communicating effectively and professionally with **various stakeholders** across the board, including customers, senior leadership, suppliers and peers. This has heavily informed my work at Makers to ensure **smooth, empathetic and collaborative communication** when **pair programming** or **working in teams**, as well as ensuring that all documentation is kept up-to-date and relevant.
 
 #### Strong Prioritisation & Time-Management
 
-I'm often trusted to juggle the demands of senior management alongside the needs of several teams due to my strict prioritisation and time-boxing abilities. I love rising to the challenge of a high pressured environment: managing expectations, troubleshooting issues as they arise and delivering positive outcomes. I find a positive outlook, calm manner and a healthy dose of determination are key to delivering the best work!
+I'm often trusted to juggle the demands of senior management alongside the needs of several teams due to my **strict prioritisation** and **time-boxing** abilities. I love rising to the challenge of a high pressured environment: **managing expectations**, **troubleshooting issues** as they arise and **delivering positive outcomes**. I find a **positive outlook**, calm manner and a healthy dose of determination are key to delivering the best work!
 
 ---
 
